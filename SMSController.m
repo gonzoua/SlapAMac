@@ -3,7 +3,7 @@
 //  SlapAMac
 //
 //  Created by Oleksandr Tymoshenko on 10-01-06.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Copyright 2010 Bluezbox Software. All rights reserved.
 //
 
 #import "SMSController.h"
